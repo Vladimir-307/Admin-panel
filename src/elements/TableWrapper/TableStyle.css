@@ -1,0 +1,23 @@
+.TableWrapper{
+    display: flex;
+    flex-direction: column;
+    height: 70%;
+    
+    margin-top: 1rem;    
+    flex-grow: 1;
+}
+
+.tableHeader{
+    height: 1.5rem;
+    background-color: #459DF5;
+}
+
+.tableBody{
+    flex-grow: 1;
+    background-color: #FFFFFF;
+}
+
+.tableFooter{
+    height: 1.5rem;
+    background-color: #EBF0F5;
+}
