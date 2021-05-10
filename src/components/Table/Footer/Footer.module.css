@@ -1,0 +1,11 @@
+.footer{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    height: 2.5rem;
+    background-color: #EBF0F5;
+}
+
+.button_delete {
+    margin-left: 1rem;
+}
