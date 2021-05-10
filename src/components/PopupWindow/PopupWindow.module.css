@@ -1,0 +1,15 @@
+.popupWindow {
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0.57rem;
+    border-radius: 0.57rem;
+    width: 11rem;
+
+    box-shadow: 0px 8px 24px rgba(0, 0, 0, 0.1), 0px 4px 8px rgba(0, 0, 0, 0.1), 0px 2px 2px rgba(0, 0, 0, 0.1);
+}
+
+.popup_dark{
+    background-color: #2B2D33;
+}

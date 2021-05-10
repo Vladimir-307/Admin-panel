@@ -1,0 +1,32 @@
+.button {
+    display: inline-flex;
+    user-select: none;
+    border-radius: 0.28rem;
+    padding: 0.4rem 1rem 0.4rem 1rem;
+    cursor: pointer;
+    color: #459DF5;
+}
+.button_slim {
+    padding: 0.15rem 1rem 0.15rem 1rem;
+}
+
+.button_dark {
+    color: #ffffff;
+    background: #459DF5;
+}
+
+.button_red {
+    color: #ffffff;
+    background: #F53152
+}
+
+.icon {
+    width: 1rem;
+    height: 1rem;
+    margin-right: 0.4rem;
+}
+
+.label {
+    cursor: inherit;
+}
+

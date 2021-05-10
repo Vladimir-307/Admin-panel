@@ -1,0 +1,23 @@
+.status {
+    display: flex;
+    align-items: center;
+}
+
+.label {
+    margin-left: 0.25rem;
+    margin-top: 0.12rem;
+}
+
+.completed {
+    color: #0FB864;
+    opacity: 0.4;
+}
+
+.rejected {
+    opacity: 0.4;
+}
+
+.icon {
+    width: 1rem;
+    height: 1rem;
+}

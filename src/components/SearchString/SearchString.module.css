@@ -1,0 +1,30 @@
+.input {
+    padding: 0.29rem 0.29rem 0.29rem 1.5rem;
+    background: #FFFFFF;
+    background-image: url("./icons/search.svg");
+    background-size: 1rem;
+    background-repeat: no-repeat;
+    background-position: 0.3rem;
+    border: 0.1rem solid #459DF5;
+    border-radius: 0.28rem;
+    outline: none;
+    width: 22rem;
+}
+
+.input_dark{
+    background: #2B2D33;
+}
+
+.input::placeholder{
+    color: #BAD8F5;
+}
+
+.input::-webkit-search-cancel-button { 
+    -webkit-appearance: none;
+    width: 1rem; 
+    height: 1rem;
+    background: url("./icons/x-medium.svg");
+    background-size: 100%;
+    margin-right: 2px;
+    cursor: auto; 
+}
